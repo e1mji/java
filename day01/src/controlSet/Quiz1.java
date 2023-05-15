@@ -24,8 +24,8 @@ public class Quiz1 {
 		
 		if (avg >= 90) { rank = 'A';}
 		else if (avg >=80) {rank = 'B';}
-		else if (avg >=80) {rank = 'B';}
-		else if (avg >=80) {rank = 'B';}
+		else if (avg >=80) {rank = 'C';}
+		else if (avg >=80) {rank = 'D';}
 		else 			{rank = 'F';}
 		
 		System.out.println(rank + "등급입니다~");
