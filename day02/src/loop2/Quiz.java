@@ -7,7 +7,11 @@ public class Quiz {
 //		문제1) N x N 별찍기
 //		입력 : 5
 		/*
-		 * ***** ***** ***** ***** *****
+		 * ***** 
+		 * ***** 
+		 * ***** 
+		 * ***** 
+		 * *****
 		 * 
 		 */
 		Scanner sc = new Scanner(System.in);
@@ -26,14 +30,18 @@ public class Quiz {
 		// 문제 2) 직각삼각형
 		// 입력 : 5
 		/*
-		 * * ** *** **** *****
+		 * *
+		 * ** 
+		 * *** 
+		 * **** 
+		 * *****
 		 */
 
 		for (int i = 1; i <= n; i++) {
 			for (int j = 1; j <= i; j++) {
 				System.out.print("*");
 			}
-			System.out.println();
+			System.out.println();  
 		}
 
 		System.out.println();
@@ -41,7 +49,11 @@ public class Quiz {
 		// 문제 3) 2번을 위아래로 반전
 		// 입력: 5
 		/*
-		 * ***** **** *** ** *
+		 * ***** 
+		 * **** 
+		 * *** 
+		 * ** 
+		 * *
 		 */
 
 		for (int i = 1; i <= n; i++) {
@@ -75,6 +87,18 @@ public class Quiz {
 		
 		
 		//트리
+		/*
+		 * 
+		 *   
+		     *
+		    ***
+		   *****
+		  *******
+		 *********
+		***********
+		
+		 */
+		
 		for (int i = 0; i <= n; i++) {
 			for (int j = 0; j <= n -1-i; j++) {
 				System.out.print(" ");
