@@ -24,7 +24,8 @@
 
 메서드
 
--day04-   he file has not been created yet. 
+-day04-   
+He hasn't written a file yet.
 
 오버로딩
 
