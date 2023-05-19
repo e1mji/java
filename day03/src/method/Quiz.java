@@ -44,6 +44,16 @@ public class Quiz {
 		return result;
 	}
 	
+	//만약 `n`이 5631이라면, `reverse(5631)`을 호출하면 다음과 같이 작동한다.
+	//- 초기에 `result`는 0
+	//- 첫 번째 반복에서 `result`는 1이 되고 `n`은 563
+	//- 두 번째 반복에서 `result`는 13이 되고 `n`은 56
+	//- 세 번째 반복에서 `result`는 136이 되고 `n`은 5
+	//- 네 번째 반복에서 `result`는 1365가 되고 `n`은 0
+	//- `n`이 0이 되어 `while` 루프가 종료되면 `result`인 1365가 반환된다.
+	// 따라서 `reverse(5631)`을 호출하면 1365가 반환
+	
+	
 	
 	
 	public static void main(String[] args) {
@@ -73,6 +83,9 @@ public class Quiz {
 		
 		System.out.println("\nrev = "+ rev);
 		System.out.println("reverse(5631) = "+ reverse(5631));
+		
+
+		
 		
 		
 		
