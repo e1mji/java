@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Ex03 {
 	public static void main(String[] args) {
-		//�پ��� Ÿ���� �迭
+		//´Ù¾çÇÑ Å¸ÀÔÀÇ ¹è¿­
 		boolean [] bos = new boolean[4];
 		char[] chs = new char[5];
 		int[] its = new int[2];
@@ -16,6 +16,8 @@ public class Ex03 {
 		System.out.println("its = " + Arrays.toString(its));
 		System.out.println("dbs = " + Arrays.toString(dbs));
 		System.out.println("sts = " + Arrays.toString(sts));
+		System.out.println("sts = " + Arrays.toString(sts));
+		
 		
 	}
 
