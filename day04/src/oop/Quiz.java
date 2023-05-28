@@ -32,6 +32,9 @@ public class Quiz {
 		System.out.println("stu 합계 :" + stu.total());
 		
 		//나만의 해석:
+		//Student stu 는 인스턴스다.
+		//Student클래스를 생성해주고 멤버필드를 정의해주고
+		//멤버 함수를 이용해서  김진수의 국,영,수를 출ㄹ
 		
 		
 		

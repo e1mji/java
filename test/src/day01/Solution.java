@@ -51,14 +51,10 @@ class Solution {
        while(answer.length()<=2) {
     	   answer += answer.charAt(answer.length() -1);
        }
-        
-        
-        
         return answer;
     }
 
-    
-    
+   
     //main에서 호출 
 	public static void main(String[] args) {
 		

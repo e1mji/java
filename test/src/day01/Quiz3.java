@@ -30,6 +30,15 @@ public class Quiz3 {
 	}
 	public static void main(String[] args) {
 		
+		String str = "abc1Addfggg4556b";
+		
+		int n=6;
+		
+		String[] s1 = solution(str,n);
+		
+		for(String s : s1) {
+			System.out.println(s);
+		}
 
 	}
 
