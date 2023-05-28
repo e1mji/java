@@ -53,8 +53,7 @@ class Solution {
        }
         return answer;
     }
-
-   
+  
     //main에서 호출 
 	public static void main(String[] args) {
 		
