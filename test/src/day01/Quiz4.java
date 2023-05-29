@@ -26,7 +26,7 @@ public class Quiz4 {
 			int end = query[1];
 			int k = query[2];
 			
-			// i가 k의 배수인지 확인 배수이면 i값을 증가 
+			// i가 k의 배수인지 확인 배수이면 i값을 증가 ㄴ
 			for(int i= start; i<=end; i++) {
 				if(i % k==0) {
 					result[i] +=1;
