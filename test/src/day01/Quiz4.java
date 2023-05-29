@@ -1,5 +1,7 @@
 package day01;
 
+//수열과 구간 쿼리 4
+
 public class Quiz4 {
 	public static void main(String[] args) {
 		int[] arr = {1,2,3,4,5};
