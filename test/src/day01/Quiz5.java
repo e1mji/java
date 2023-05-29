@@ -1,5 +1,6 @@
 package day01;
 
+//조건에 맞게 수열 변환하기 2
 public class Quiz5 {
 	static int solution(int[] arr) {
 		//동일한 배열이 되는 횟수를 저장하기 위한 변수이며, 초기값은 0으로 설정.
