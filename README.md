@@ -7,7 +7,8 @@
 
 | day  | 카테고리 | 바로가기 |
 |--------|--------|--------|
-| day01  | 자바  | [바로가기](https://github.com/e1mji/java/tree/main/day01/src)   |
+| day01  | 자료형,변수,상수,연산자  | [바로가기](https://github.com/e1mji/java/tree/main/day01/src)   |
+| day02  | 분기문,반복문,기타제어문  | [바로가기](https://github.com/e1mji/java/tree/main/day02/src)   
 
 -day01-
 
