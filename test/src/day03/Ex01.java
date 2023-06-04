@@ -1,11 +1,13 @@
 package day03;
 
+
 class Human {
 	String name;
 	
 	Human(String name) {
 		this.name = name;
 	}
+	
 	public void show() {
 		System.out.println("이름 : " + name);
 	}
@@ -43,6 +45,7 @@ class Actor extends Human{
 class Car {
 	
 	Human[] seat = new Human[4];
+	
 	void entrance(Human ob) {
 		for(int i=0; i<seat.length; i++) {
 			if(seat[i] == null) {
@@ -52,11 +55,11 @@ class Car {
 		}
 		System.out.println(ob.name+"님 자리가 꽉찼습니다.");
 	}	
+	
 	void searchPeople() {
 		for(int i=0; i<seat.length; i++) {
 			if(seat[i] != null) {
-				seat[i].show();
-				
+				seat[i].show();			
 			}
 		}
 	}

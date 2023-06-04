@@ -3,17 +3,17 @@ package day01;
 //조건에 맞게 수열 변환하기 2
 public class Quiz5 {
 	static int solution(int[] arr) {
-		//동일한 배열이 되는 횟수를 저장하기 위한 변수이며, 초기값은 0으로 설정.
+		
 		int answer = 0;
 		int count = 0;
-		// 동일한 요소의 개수를 세기위한 변수
+		
 		
 		//arrX배열은 이전 반복에서 arr배열의 저장하기 위한 배열
 		// 현재 반복에서 arr배열과 비교하기 위해 사용된다. 
 		int[] arrX = new int[arr.length];
 
 		
-		//arr의 배열과 count변수가 같아질때까지 반복 
+		
 		while (count != arr.length) {
 			//count값을 초기화
 			count = 0;
