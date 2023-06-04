@@ -8,34 +8,16 @@
 | day  | 카테고리 | 바로가기 |
 |--------|--------|--------|
 | day01  | 자료형,변수,상수,연산자  | [바로가기](https://github.com/e1mji/java/tree/main/day01/src)   |
-| day02  | 분기문,반복문,기타제어문  | [바로가기](https://github.com/e1mji/java/tree/main/day02/src)   
+| day02  | 분기문,반복문,기타제어문  | [바로가기](https://github.com/e1mji/java/tree/main/day02/src)   |
+| day03  | 배열,메서드,오버로딩  | [바로가기](https://github.com/e1mji/java/tree/main/day03/src)   |
+| day04  | 객체지향,생성자  | [바로가기](https://github.com/e1mji/java/tree/main/day04/src)   |
+| day05  | null  | [바로가기](https://github.com/e1mji/java)   |
+| day06  | null  | [바로가기](https://github.com/e1mji/java)   |
+| day07  | null  | [바로가기](https://github.com/e1mji/java)   |
+| day08  | null  | [바로가기](https://github.com/e1mji/java)   |
+| day09  | null  | [바로가기](https://github.com/e1mji/java)   |
 
--day01-
 
-자료형
-
-변수
-
-상수
-
-연산자
-
--day02-
-
-제어문
-(분기문,반복문,기타제어문)
-
--day03-
-
-배열
-
-메서드, 오버로딩
-
--day04-   
-
-객체지향
-
-생성자
 
 -day05-
 
