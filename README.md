@@ -18,6 +18,11 @@
 | day09  | null  | [바로가기](https://github.com/e1mji/java)   |
 
 
+[바로가기]
+
+| day  | 자바기초문제 | 바로가기 |
+|--------|--------|--------|
+| day01  | 정거장수, 문자열 자르기,영어가 싫어요,카카오블라인드테스트 | [바로가기](https://github.com/e1mji/java/tree/main/day01/src)   |
 
 -day05-
 
