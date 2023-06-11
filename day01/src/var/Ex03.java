@@ -2,22 +2,17 @@ package var;
 
 public class Ex03 {
 	public static void main(String[] args) {
-		//printf() : ÇüÅÂ¸¦ Àâ°í µÚ¿¡¼­ µ¥ÀÌÅÍ¸¦ Ã¤¿ö¼­ Ãâ·Â 
-		// -%s : String, ¹®ÀÚ¿­ÀÚ¸®
-		// -%d : Decimal, 10Áø Á¤¼öÀÚ¸®
-		// -%f : Float. ½Ç¼öÀÚ¸® 
-		// -%c " Character, ¹®ÀÚÀÚ¸® 
 		
-		String name = "È«±æµ¿";
+		
+		String name = "ì´ì§€ì€";
 		int age = 16;
 		double height = 161.3;
-		char gender = '³²';
+		char gender = 'ì—¬';
 		
-		System.out.printf("ÀÌ¸§ : %s (%d¼¼, %c)\n",name,age,gender);
-		System.out.printf("½ÅÀå : %f cm\n", height);
-		// %f ´Â ±âº» ¼Ò¼öÁ¡ 6ÀÚ¸®¸¦ Ãâ·Â
+		System.out.printf("ì´ë¦„: %s (%dì„¸, %c)\n",name,age,gender);
+		System.out.printf("ì‹ ì¥: %f cm\n", height);
 		
-		System.out.printf("½ÅÀå : %.1f cm\n",height);
+		System.out.printf("ï¿½ï¿½ï¿½ï¿½ : %.1f cm\n",height);
 		
 	}
 

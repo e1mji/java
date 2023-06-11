@@ -2,34 +2,26 @@ package var;
 
 public class Quiz {
 	public static void main(String[] args) {
-		// 1. ÀÌ¸§, ³ªÀÌ, Å°, ÁÖ¼Ò, ¼ºº°À» ÀúÀåÇÒ º¯¼ö¸¦ ¼±¾ğ
-		// ´Ü, ¼ºº°Àº char·Î ¼±¾ğ
+
 		String name, address;
 		int age;
 		double height;
 		char gender;
 		
-		
-		// 2. 1¹øÀÇ º¯¼ö¿¡ °ªÀ» Ã¤¿î´Ù
-		name = "È«±æµ¿";
+
+		name = "í™ê¸¸ë™";
 		age = 31;
 		height = 176.3;
-		gender = '³²';
-		address = "ºÎ»ê ±¤¿ª½Ã ¼ö¿µ±¸";
+		gender = 'ë‚¨';
+		address = "ë¶€ì‚°ê´‘ì—­ì‹œ í•´ìš´ëŒ€êµ¬ ";
 		
+
 		
-		// 3. º¯¼öÀÇ ³»¿ëÀ» ¾Æ·¡¿Í °°ÀÌ Ãâ·ÂÇÑ´Ù
-		// ÀÌ¸§ : È«±æµ¿
-		// ³ªÀÌ : 31¼¼
-		// ½ÅÀå : 176.3cm
-		// ¼ºº° : ³²
-		// ÁÖ¼Ò : ºÎ»ê ±¤¿ª½Ã ¼ö¿µ±¸
-		
-		System.out.println("ÀÌ¸§ : " + name);
-		System.out.println("³ªÀÌ : " + age + "¼¼");
-		System.out.println("½ÅÀå : " + height + "cm");
-		System.out.println("¼ºº° : " + gender);
-		System.out.println("ÁÖ¼Ò : " + address);
+		System.out.println("ï¿½Ì¸ï¿½ : " + name);
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ : " + age + "ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ : " + height + "cm");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ : " + gender);
+		System.out.println("ï¿½Ö¼ï¿½ : " + address);
 		
 	}
 

@@ -4,34 +4,34 @@ import java.util.Scanner;
 
 public class Ex03 {
 	public static void main(String[] args) {
-		// JavaÀÇ switch¹®Àº ¹«ÀÚ¿­µµ Ã³¸®ÇÒ ¼ö ÀÖ´Ù. 
+		// Javaï¿½ï¿½ switchï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½. 
 		Scanner sc= new Scanner(System.in);
 		String menu;
 			
 		System.out.println("--------- menu ---------");
-		System.out.println("\t1. Â¥Àå¸é");
-		System.out.println("\t2. Â«»Í");
-		System.out.println("\t3. ººÀ½¹ä");
-		System.out.println("\t4. ÅÁ¼öÀ°");
+		System.out.println("\t1. Â¥ï¿½ï¿½ï¿½");
+		System.out.println("\t2. Â«ï¿½ï¿½");
+		System.out.println("\t3. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("\t4. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 		
 		System.out.print("\n>>> ");
 		menu = sc.next();
 		
 		switch (menu) {
-		case "Â¥Àå¸é": case "1":
-			System.out.println("Â¥Àå¸é ÁÖ¹®~");
+		case "ì§œì¥ë©´" : case "1":
+			System.out.println("Â¥ï¿½ï¿½ï¿½ ï¿½Ö¹ï¿½~");
 			break;
-		case "Â«»Í": case "2":
-			System.out.println("Â«»Í ÁÖ¹®~");
+		case "ì§¬ë½•": case "2":
+			System.out.println("Â«ï¿½ï¿½ ï¿½Ö¹ï¿½~");
 			break;
-		case "ººÀ½¹ä": case "3":
-			System.out.println("ººÀ½¹ä ÁÖ¹®~");
+		case "íƒ•ìˆ˜ìœ¡": case "3":
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¹ï¿½~");
 			break;
-		case "ÅÁ¼öÀ°": case "4":
-			System.out.println("ÅÁ¼öÀ° ÁÖ¹®~");
+		case "ë³¶ìŒë°¥" : case "4":
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¹ï¿½~");
 			break;
 		default:
-			System.out.println("¾ø´Â ¸Ş´º ÀÔ´Ï´Ù");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½Ş´ï¿½ ï¿½Ô´Ï´ï¿½");
 		}
 		
 		sc.close();
