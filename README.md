@@ -20,19 +20,20 @@
 
 
 
-<자바기초문제풀기(강의)>
+<자바문제풀기 [강의] (test) >
 
 [바로가기]
 
-| day  | 자바기초문제 | 바로가기 |
+| day   | 자바기초문제 | 바로가기 |
 |--------|--------|--------|
+| basic  | 기초문제들  | [바로가기](https://github.com/e1mji/java/tree/main/test/src/basic)   |
 | day01  | 정거장수, 문자열 자르기,영어가 싫어요,카카오블라인드테스트 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
-| day02  | 문자주고받기:실패(주석), 공 주고받기, 문자주고받기 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day02)   |
-| day03 (객체지향)  | 차에 사람이 탐(객체지향)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day03)   |
+| day02  | 객체지향 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day02)   |
+| day03  | ====*, 퍼센트게이지| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day03)   |
 
 
 
-<자바의 정석 문제풀기>
+<자바의 정석 문제풀기 (basic)>
 
 [바로가기]
 | 카테고리  | 바로가기 |
@@ -40,7 +41,7 @@
 |loop (반복문) | [바로가기](https://github.com/e1mji/java/tree/main/basic/src/loop)   |
 
 
-<프로그래머스 문제풀기>
+<프로그래머스 문제풀기(programmers)>
 
 [바로가기]
 | 레벨 | 바로가기 |
