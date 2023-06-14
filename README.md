@@ -3,6 +3,7 @@
 
 <자바개념 필수요소들>
 
+![image](https://github.com/e1mji/java/assets/133019246/ee37ae26-5ed5-48ec-a427-c22b4aa2327e)
 
 [바로가기]
 
@@ -20,7 +21,7 @@
 
 <br>
 <br>
-![image](https://github.com/e1mji/java/assets/133019246/ee37ae26-5ed5-48ec-a427-c22b4aa2327e)
+
 
 <자바문제풀기 [강의] (test) >
 
