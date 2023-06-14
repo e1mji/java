@@ -25,6 +25,8 @@
 
 <자바문제풀기 [강의] (test) >
 
+![image](https://github.com/e1mji/java/assets/133019246/fff01539-5b3b-445e-8c76-59e0d823ae59)
+
 [바로가기]
 
 | day   | 자바기초문제 | 바로가기 |
