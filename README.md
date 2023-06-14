@@ -28,6 +28,15 @@
 | day02  | 문자주고받기:실패(주석), 공 주고받기, 문자주고받기 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day02)   |
 | day03 (객체지향)  | 차에 사람이 탐(객체지향)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day03)   |
 
+
+
+<자바의 정석 문제풀기>
+[바로가기]
+|loop (반복문)|  | [바로가기](https://github.com/e1mji/java/tree/main/basic/src/loop)   |
+
+
+
+
 -day05-
 
 He hasn't written the file yet.

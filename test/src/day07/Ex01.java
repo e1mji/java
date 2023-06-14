@@ -10,6 +10,7 @@ public class Ex01 {
 	    			answer +=code.charAt(i);
 	    		}
 	    	}
+	    	
 	    	return answer;
 	}
 	public static void main(String[] args) {
@@ -18,7 +19,5 @@ public class Ex01 {
 		String code = "alsdodfl";
 		String s1 = solution(q, r, code);
 		System.out.println(s1);
-		
-		
 	}
 }
