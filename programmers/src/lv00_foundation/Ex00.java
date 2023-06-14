@@ -1,6 +1,6 @@
-package day04;
+package lv00_foundation;
 
-public class Ex01 {
+public class Ex00 {
 	static String solution(String my_string, int k) {
 		// 곱해준 문자열을 담아줄 변수 초기화 
 		String answer = "";

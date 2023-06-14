@@ -1,9 +1,9 @@
-package day07;
+package basic;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ex03 {
+public class Ex07 {
 	public static void main(String[] args) {
 		//랜덤을 활용한 업다운 게임을 시작하세요
 		Scanner sc = new Scanner(System.in);
