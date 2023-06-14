@@ -1,4 +1,4 @@
-package day04;
+package lv00_foundation;
 
 import java.util.Arrays;
 
@@ -7,8 +7,9 @@ import java.util.Arrays;
  * 10개, 26개,..., 추가하는 방법이 있고 그중 최소한으로 0을 추가하는 방법은 2개를 추가하는 것입니다. 
  * 따라서 [1, 2, 3, 4, 5, 6, 0, 0]을 return 합니다.
  */
-public class Ex02 {
+public class Ex06 {
 	
+	//코딩 기초 배열의 길이를 2의 거듭제곱으로 만들기
 	 public static int[] solution(int[] arr) {
 		 	//입력된 arr배열의 변수를 새로 넣을 공간
 	    	int length = arr.length;

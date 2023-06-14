@@ -1,4 +1,4 @@
-package day05;
+package lv00_foundation;
 
 
 /*
@@ -10,7 +10,8 @@ package day05;
 	
 	단, a ⊕ b와 2 * a * b가 같으면 a ⊕ b를 return 합니다.
  */
-public class Ex02 {
+public class Ex03 {
+	//코딩 기초 (두정수 합쳐서 비교하기 2)
 	static int solution(int a, int b) {
 		// ab변수를 parseInt로 바꿔서 더해준다. 
         int ab = Integer.parseInt(Integer.toString(a)+ Integer.toString(b));

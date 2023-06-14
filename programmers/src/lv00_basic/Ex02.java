@@ -1,9 +1,9 @@
-package day07;
+package lv00_basic;
 
 import java.math.BigInteger;
 
 public class Ex02 {
-	
+		//코딩 테스트 입문 구슬나누기
     static BigInteger  solution(int balls, int share) {
     	//만약 머쓱이가 가지고있는 구슬이 친구한테 나눠줄 구슬보다 적다면 0
         if (balls < share) return BigInteger.ZERO;

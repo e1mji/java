@@ -1,4 +1,4 @@
-package day06;
+package lv00_foundation;
 
 public class Ex02 {
 	/*
@@ -13,6 +13,7 @@ public class Ex02 {
 		결제하게 될 금액 return  int total = 
 	 */
 	
+	//코딩 기초트레이닝(커피심부름)
 	public int solution(String[] order) {
 		int americanoPrice = 4500;
 		int cafelattePrice = 5000; 

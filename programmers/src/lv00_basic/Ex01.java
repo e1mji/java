@@ -1,4 +1,4 @@
-package day06;
+package lv00_basic;
 
 /*
  * my_string은 "3 + 5"처럼 문자열로 된 수식입니다. 
@@ -6,6 +6,7 @@ package day06;
  * 수식을 계산한 값을 return 하는 solution 함수를 완성해주세요.
  */
 public class Ex01 {
+	//코딩 테스트 입문 (문자열 계산하기)
 	  static int solution(String my_string) {
 	    	int answer = 0;
 	    	//arr 배열 변수는 my_string배열에서 공백을 날린다.

@@ -1,6 +1,7 @@
-package day01;
+package lv00_foundation;
 
-public class Quiz2 {
+public class Ex07 {
+	//코딩 기초 영어가 싫어요 
 	public long solution(String numbers) {
 
 		String[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };

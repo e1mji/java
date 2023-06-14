@@ -1,8 +1,8 @@
-package day01;
+package lv00_foundation;
 
-//수열과 구간 쿼리 4
+//기초트레이닝 수열과 구간 쿼리 4
 
-public class Quiz4 {
+public class Ex08 {
 	public static void main(String[] args) {
 		int[] arr = {1,2,3,4,5};
 		int[][] queries = {{1,3,2},{2,4,3},{0,2,1}};

@@ -1,6 +1,7 @@
-package day07;
+package lv00_foundation;
 
 public class Ex01 {
+		//코딩 기초 트레이닝 (q,r코드)
 	    static String solution(int q, int r, String code) {
 	    	String answer = "";
 	    	for(int i =0; i<code.length(); i++) {

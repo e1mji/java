@@ -1,7 +1,8 @@
-package day01;
+package lv00_foundation;
+
 
 //조건에 맞게 수열 변환하기 2
-public class Quiz5 {
+public class Ex09 {
 	static int solution(int[] arr) {
 		
 		int answer = 0;
