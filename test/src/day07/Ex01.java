@@ -1,6 +1,7 @@
 package day07;
 
 public class Ex01 {
+	//qr코드
 	    static String solution(int q, int r, String code) {
 	    	String answer = "";
 	    	for(int i =0; i<code.length(); i++) {
@@ -9,8 +10,7 @@ public class Ex01 {
 	    			//answer에 code의 i값을 빼서 추가 
 	    			answer +=code.charAt(i);
 	    		}
-	    	}
-	    	
+	    	}	    	
 	    	return answer;
 	}
 	public static void main(String[] args) {
