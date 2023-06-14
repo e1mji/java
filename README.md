@@ -45,8 +45,8 @@
 [바로가기]
 | 레벨 | 바로가기 |
 |--------|--------|
-|Lv 00 (기초트레이닝)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
-|Lv 00 (입문)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
+|Lv 00 (기초트레이닝)| [바로가기](https://github.com/e1mji/java/tree/main/programmers/src/lv00_foundation)   |
+|Lv 00 (입문)| [바로가기](https://github.com/e1mji/java/tree/main/programmers/src/lv00_basic)   |
 |Lv 01| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
 
 
