@@ -1,6 +1,7 @@
 # java
 자바기초에 관한 학습과 리마인드를 위한 저장소입니다. 
-자바개념 필수요소들
+
+<자바개념 필수요소들>
 
 
 [바로가기]
@@ -19,7 +20,7 @@
 
 
 
-<자바기초문제풀기>
+<자바기초문제풀기(강의)>
 
 [바로가기]
 
@@ -28,8 +29,6 @@
 | day01  | 정거장수, 문자열 자르기,영어가 싫어요,카카오블라인드테스트 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
 | day02  | 문자주고받기:실패(주석), 공 주고받기, 문자주고받기 | [바로가기](https://github.com/e1mji/java/tree/main/test/src/day02)   |
 | day03 (객체지향)  | 차에 사람이 탐(객체지향)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day03)   |
-
-
 
 
 
@@ -46,7 +45,10 @@
 [바로가기]
 | 레벨 | 바로가기 |
 |--------|--------|
-|Lv 00 (임시)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
+|Lv 00 (기초트레이닝)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
+|Lv 00 (입문)| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
+|Lv 01| [바로가기](https://github.com/e1mji/java/tree/main/test/src/day01)   |
+
 
 -day05-
 
