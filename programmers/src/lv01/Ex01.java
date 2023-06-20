@@ -48,6 +48,5 @@ public class Ex01 {		//민우의 로또번호		//로또 당첨번호
 		
 		int[] a = solution(lottos, win_nums);
 		System.out.println(Arrays.toString(a));
-		
 	}
 }
